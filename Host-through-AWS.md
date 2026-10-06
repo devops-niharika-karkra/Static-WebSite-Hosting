@@ -33,6 +33,7 @@ This option is useful when you work in team and you need that each teammate who 
 
 ### Remove block public access 
 We have to remve the block poblic access to host a static website.
+
 <img width="1591" height="447" alt="image" src="https://github.com/user-attachments/assets/e91760fa-dfa7-4d69-a2a3-438672395da9" />
 
 ### After finishing the settings you have to click on create bucket button to create a bucket
@@ -55,9 +56,11 @@ Click enable and write the name of default page in the given space
 
 ### Create an IAM policy to give read access to objects in s3
 Go to permissions and scroll down to bucket policy and then click on edit
+
 <img width="1653" height="697" alt="Screenshot from 2026-10-05 15-39-16" src="https://github.com/user-attachments/assets/b649a7e4-8c7b-4f3d-ab01-ac816799be7c" />
 
 write this policy in it 
+
 <img width="1166" height="337" alt="Screenshot from 2026-10-05 15-42-59" src="https://github.com/user-attachments/assets/5d93893e-8731-4360-9ca4-1acefbd7cbbb" />
 
 ### Get the endpoint and paste it on browser
@@ -67,5 +70,6 @@ write this policy in it
 
 ### Add DNS records
 Copy your endpoint and add reord in CNAME
+
 <img width="1137" height="495" alt="image" src="https://github.com/user-attachments/assets/3dbf2ec1-f3a3-4845-af2c-f6c08a2e9418" />
 
